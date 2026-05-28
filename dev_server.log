@@ -1,0 +1,31 @@
+
+> temp-app@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.0.3
+   - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1801ms
+ ○ Compiling / ...
+ ✓ Compiled / in 5.8s (786 modules)
+ GET / 200 in 6807ms
+ ✓ Compiled in 1019ms (318 modules)
+ GET / 200 in 51ms
+ ○ Compiling /student ...
+ ✓ Compiled /student in 714ms (797 modules)
+ GET /student 200 in 836ms
+ ○ Compiling /book ...
+ ✓ Compiled /book in 1104ms (810 modules)
+ GET /book?cid=C1 200 in 1486ms
+ GET /student 200 in 21ms
+ ✓ Compiled /company in 354ms (827 modules)
+ GET /company 200 in 552ms
+ GET / 200 in 17ms
+ GET /company 200 in 15ms
+ GET /company 200 in 15ms
+ ○ Compiling /admin/login ...
+ ✓ Compiled /admin/login in 908ms (836 modules)
+ GET /admin/login 200 in 1121ms
+ ✓ Compiled /admin in 384ms (851 modules)
+ GET /admin 200 in 435ms
